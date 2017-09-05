@@ -91,6 +91,7 @@ alert(newMyName());
 
 //Now save the result of invoking outerFn into a variable called innerFn.
 
-  //Code Here
+  let innerFn = outerFn();
 
 //Now invoke innerFn.
+innerFn();
