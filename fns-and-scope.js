@@ -52,7 +52,7 @@ var name = 'Tyler';
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
 
-  //Answer Here
+  // You check by setting it == to falsy. Undefined, Null, NaN, False, 0, '', false are the falsy values.
 
 
 
