@@ -42,7 +42,7 @@ var name = 'Tyler';
 
 //What is the difference between arguments and parameters?
 
-  //Answer Here
+  // Parameters are placeholders for arguments given to a function. Arguments are the actual values that the function will use to run.
 
 
 //////////////////PROBLEM 5////////////////////
